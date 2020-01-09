@@ -14,5 +14,5 @@ def any_phrase(phrase)
 end
 
 def link
-  print "'It's Dangerous To Go Alone! Take This.'"
+  print "'It's Dangerous To Go Alone! Take This.\'\"
 end

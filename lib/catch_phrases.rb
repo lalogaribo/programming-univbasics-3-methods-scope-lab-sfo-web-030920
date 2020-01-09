@@ -13,6 +13,6 @@ def any_phrase(phrase)
   puts phrase
 end
 
-# def link
-#   puts "puts out 'It's Dangerous To Go Alone! Take This.'"
-# end
+def link
+  puts "puts out 'It's Dangerous To Go Alone! Take This.'"
+end

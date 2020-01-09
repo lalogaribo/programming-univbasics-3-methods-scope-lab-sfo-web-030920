@@ -1,6 +1,6 @@
+link = "puts out 'It's Dangerous To Go Alone! Take This.'"
 def mario
   phrase = "It's-a me, Mario!"
-  
   puts phrase
 end
 
